@@ -9,7 +9,6 @@ Explore my repositories to see my work, and let's connect to discuss web develop
 
 
 
-- 🔭 I’m currently working on chat [Chat Application](https://github.com/Eshanpokhrel/realTimeChatApp)
 - 🌱 I’m currently learning MERN
 - 📫 How to reach me: eshanpokhrel12@gmail.com
 - 😄 [Portfolio](https://eshanpokhrel.com.np)
